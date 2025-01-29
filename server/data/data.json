@@ -1,0 +1,65 @@
+{
+    "BajajAreaChartCard": {
+        "Bajaj Finery": 50.00,
+        "Profit": 20
+    },
+    "EarningCard": {
+       "Total Earning": 800
+        
+    },
+    "PopularCard": {
+        "Bajaj Finery":{
+            "Profit":90,
+            "loss":40,
+            "total":900
+        },
+        "ttml":{
+            "profit":0,
+            "loss":80,
+            "total":200
+        },
+        "Relience":{
+            "profit":90,
+            "loss":0,
+            "total":300
+        },
+        "stolon":{
+            "profit":30,
+            "loss":20,
+            "total":500
+        }
+    },
+    "TotalGrowthBarChart":{
+        "Total Growth":5000
+    },
+    "TotalIncomeDarkCard":{
+        "Total Income":800
+    },
+    "TotalIncomeLightCard":{
+        "Total Income":800
+    },
+    "TotalOrderLineChartCard":{
+        "month":89,
+        "year":90
+    },
+    "chartData": {
+        "bajajAreaChart": [20, 15, 10, 50, 30, 40, 80]
+    },
+    "totalGrowthBar": {
+        "Investment": [110, 125, 35, 35, 35, 80, 35, 20, 35, 45, 15, 75],
+        "Loss": [350, 15, 15, 35, 65, 40, 80, 25, 15, 85, 25, 75],
+        "profit": [35, 145, 35, 35, 20, 105, 100, 10, 65, 45, 30, 100],
+        "maintenance": [50, 0, 75, 0, 0, 115, 0, 0, 0, 0, 150, 50]
+    },
+    "totalOrderMonthly": {
+        "data": [30, 66, 41, 89, 25, 44, 9, 20]
+    },
+    "totalOrderYearly": {
+        "data": [35, 44, 9, 54, 45, 66, 41, 100]
+    } 
+    
+}
+
+    
+
+  
